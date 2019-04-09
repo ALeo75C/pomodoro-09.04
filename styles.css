@@ -2,6 +2,8 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,700,700i&subset=cyrillic-ext');
 
 body {
+  overflow-y: hidden;
+
   font-family: 'Roboto', sans-serif;
 }
 
